@@ -1,0 +1,7 @@
+
+basename – Removes the path prefix from a given pathname
+cp – Copies files
+mkdir – Creates directories
+mv – Moves and renames files
+rm – Deletes files
+dirname – Strips non-directory suffix from file name

@@ -1,0 +1,18 @@
+
+basename – Removes the path prefix from a given pathname
+cp – Copies files
+mkdir – Creates directories
+mv – Moves and renames files
+rm – Deletes files
+dirname – Strips non-directory suffix from file name
+
+----
+END of section
+
+Sasha tiene que esciribr un script 
+tal que reconozca los tipos de archivo
+para ponerlos en una carpeta cada tipo de archivo
+
+fichas: .bib .yml
+archivo: .txt .md .wiki .pdf
+----

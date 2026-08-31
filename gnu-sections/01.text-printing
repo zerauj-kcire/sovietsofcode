@@ -1,0 +1,7 @@
+
+echo – Outputs text
+tac – Concatenates files in reverse order, line by line
+cat – Concatenates files
+head – Outputs the first part of files
+tail – Outputs the last part of files
+wc – Reports the number of bytes, words, and lines in files

@@ -1,0 +1,4 @@
+
+fold – Wraps each input line to fit in specified width
+fmt - Reformat paragraph text
+nl – Numbers lines of files

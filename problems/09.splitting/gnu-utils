@@ -1,0 +1,4 @@
+
+cut – Removes sections from each line of files
+csplit – Splits a file into sections determined by context lines
+split – Splits a file into pieces

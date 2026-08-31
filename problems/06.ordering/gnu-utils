@@ -1,0 +1,6 @@
+
+shuf - Shuffling text files by a random permutation
+tsort – Performs a topological sort
+
+sort – Sorts lines of text files
+uniq – Removes duplicate lines from a sorted file
