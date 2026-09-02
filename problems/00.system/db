@@ -1,0 +1,26 @@
+
+for this first problem we could do something similar to
+2019/22/1:
+
+					# first action: new stack
+					seq 0 $N | tac;
+
+					# second action: cut and cut -
+					k=3;
+					cat <(seq 0 $N | tail -$((N-k+1)) ) <(seq 0 $N | head -$k );
+					k=4;
+					cat <(seq 0 $N | tail -$k ) <(seq 0 $N | head -$((N-k+1)) );
+
+sh
+shV
+shVV
+shVVV
+shVVVV
+sh6
+sh66
+sh666
+sh6666
+sh*
+sh**
+sh***
+sh****

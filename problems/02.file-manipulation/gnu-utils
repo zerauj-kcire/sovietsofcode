@@ -7,8 +7,9 @@ rm – Deletes files
 dirname – Strips non-directory suffix from file name
 
 ----
+PRE-END of section
+Lets learn vim!!
 END of section
-
 Sasha tiene que esciribr un script 
 tal que reconozca los tipos de archivo
 para ponerlos en una carpeta cada tipo de archivo

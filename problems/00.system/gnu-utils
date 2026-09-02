@@ -2,12 +2,21 @@
 ---- 
 ls – Lists files
 cd - Change directory to a given location
+man - A interface to the system of manual pages
+info - Documentation system of the GNU-project
+	all possible combinations:
+		man man
+		info man
+		info
+		man info
+		info info
+tar - Archive and unarchive .tar.gz files
 find - Finding and acting on files
 
 PROF:
 Librarian
 Estatal de la URSS UV LENIN
-Sasha
+Katia
 
 yml
 info
