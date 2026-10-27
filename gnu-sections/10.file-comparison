@@ -1,4 +1,5 @@
 
+cmp - Compare 2 files byte by byte
 comm – Compares two sorted files line by line
 diff - Compare 2 files line by line
 sdiff - Merge 2 files side by side
